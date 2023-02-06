@@ -1,6 +1,6 @@
 {
   "name": "booXditor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BooXditor",
   "main": "dist/index.js",
   "repository": {
@@ -19,5 +19,8 @@
   "devDependencies": {
     "grapesjs-cli": "^4.0.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "raw-loader": "^4.0.2"
+  }
 }
